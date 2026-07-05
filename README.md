@@ -23,7 +23,4 @@ INT8 quantized (actual device): 88.7% accuracy
 Current deployed version: 86% real-world accuracy
 Processing time: 144ms per sample (fast enough for live feedback)
 
-Current Bottleneck
-Parkinson's recall is weak — it's getting confused with Healthy Voice samples ~22% of the time. That's your main optimization target right now.
-The Vision
 Non-invasive, portable neurological screening tool for early detection. Could eventually be deployed in clinics, home monitoring, or as a screening tool in low-resource settings.
